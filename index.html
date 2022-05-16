@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="user-scalable,width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>index</title>
+    <!--公用-->
+    <link rel="stylesheet" href="common/css/base.css">
+    <script src="common/js/jquery.js"></script>
+    <script src="common/js/layui/layui.js"></script>
+    <script src="common/js/layui/lay/dest/layui.all.js"></script>
+    <link rel="stylesheet" href="common/js/layui/css/layui.css" type="text/css"/>
+    <!--自定义-->
+    <link rel="stylesheet" href="css/index.css">
+    <script src="js/index.js"></script>
+    <script>
+        $(function (){
+            main.init()
+        })
+    </script>
+    <style>
+        div.c1{
+            width: 1200px;
+            height: 500px;
+            background: red;
+        }
+        .card-box{
+            overflow: hidden;
+        }
+        .card-box:hover{
+            box-shadow:0 0 5px rgba(0,0,0,0.5);
+        }
+        .card-box img:hover{
+            transform: scale(1.4)
+        }
+    </style>
+</head>
+<body>
+<div class="min-body">
+    <!--header-->
+    <div class="header-box">
+        <img src="image/11.png">
+        <div class="header-text">Car Rental Center</div>
+        <div class="header-btn">Car Reservation</div>
+    </div>
+    <!--main-->
+    <div class="main-box js-CarBox">
+<!--        <div class="card-box ">-->
+<!--            <img src="./image/320i.jpg" alt="">-->
+<!--            <div class="card-text">Toyota-Camry-2013</div>-->
+<!--            <div class="card-text"><span>mileage: </span>85364 kms</div>-->
+<!--            <div class="card-text"><span>fuel_type: </span>Petrol</div>-->
+<!--            <div class="card-text"><span>seats:</span> 5</div>-->
+<!--            <div class="card-text"><span>price_per_day: </span>240</div>-->
+<!--            <div class="card-text"><span>availability:</span> True</div>-->
+<!--            <div class="card-text"><span>description: </span>The Toyota Camry is an automobile s...</div>-->
+<!--            <div class="card-btn">Add to Car</div>-->
+<!--        </div>-->
+    </div>
+    <div class="car js-goCar">Shopping cart<b class="js-carNum"></b></div>
+    <!--END!-->
+</div>
+</body>
+</html>

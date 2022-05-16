@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "title": "Toyota-Camry-2013",
+      "img": "Sonata.jpg",
+      "mileage": "85364 kms",
+      "fuel_type": "Petrol",
+      "seats": "5",
+      "price_per_day": "240",
+      "availability": "True",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 1,
+      "title": "Nissan-X-trail-2015",
+      "img": "X-trail.jpg",
+      "mileage": "36782 kms",
+      "fuel_type": "Petrol",
+      "seats": "7",
+      "price_per_day": "360",
+      "availability": "True",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 2,
+      "title": "Volkswagen-Golf-2017",
+      "img": "Golf.jpg",
+      "mileage": "1586 kms",
+      "fuel_type": "CNG",
+      "seats": "5",
+      "price_per_day": "180",
+      "availability": "True",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 3,
+      "title": "hONDA-civic-2018",
+      "img": "Civic.jpg",
+      "mileage": "9596 kms",
+      "fuel_type": "Petrol",
+      "seats": "7",
+      "price_per_day": "360",
+      "availability": "True",
+      "description": "The Toyota Camry is an automobile s..."
+    },{
+      "id": 4,
+      "title": "Toyota-Camry-2013",
+      "img": "Captiva.jpg",
+      "mileage": "85364 kms",
+      "fuel_type": "Petrol",
+      "seats": "5",
+      "price_per_day": "240",
+      "availability": "True",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 5,
+      "title": "Nissan-X-trail-2015",
+      "img": "Jimny.jpg",
+      "mileage": "36782 kms",
+      "fuel_type": "Petrol",
+      "seats": "7",
+      "price_per_day": "360",
+      "availability": "True",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 6,
+      "title": "Volkswagen-Golf-2017",
+      "img": "320i.jpg",
+      "mileage": "1586 kms",
+      "fuel_type": "CNG",
+      "seats": "5",
+      "price_per_day": "180",
+      "availability": "True",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 7,
+      "title": "hONDA-civic-2018",
+      "img": "GLC.jpg",
+      "mileage": "9596 kms",
+      "fuel_type": "Petrol",
+      "seats": "7",
+      "price_per_day": "360",
+      "availability": "True",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 8,
+      "title": "Nissan-X-trail-2015",
+      "img": "Jimny.jpg",
+      "mileage": "36782 kms",
+      "fuel_type": "Petrol",
+      "seats": "7",
+      "price_per_day": "360",
+      "availability": "False",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 9,
+      "title": "Volkswagen-Golf-2017",
+      "img": "320i.jpg",
+      "mileage": "1586 kms",
+      "fuel_type": "CNG",
+      "seats": "5",
+      "price_per_day": "180",
+      "availability": "False",
+      "description": "The Toyota Camry is an automobile s..."
+    },
+    {
+      "id": 10,
+      "title": "hONDA-civic-2018",
+      "img": "GLC.jpg",
+      "mileage": "9596 kms",
+      "fuel_type": "Petrol",
+      "seats": "7",
+      "price_per_day": "360",
+      "availability": "False",
+      "description": "The Toyota Camry is an automobile s..."
+    }
+  ]
+}
